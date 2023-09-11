@@ -5,3 +5,6 @@
 
 ### Resource Loader
 * ResourceLoaderTest.java
+
+### Message Source
+* MessageSourceTest.java
