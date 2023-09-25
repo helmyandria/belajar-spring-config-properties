@@ -17,3 +17,6 @@
 
 ### Environment
 * EnvironmentTest.java
+
+### Value
+* ValueTest.java
