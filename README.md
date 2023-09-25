@@ -8,3 +8,9 @@
 
 ### Message Source
 * MessageSourceTest.java
+
+### Spring Boot Message Source
+* SpringBootMessageSourceTest.java
+
+### Application Properties
+* ApplicationPropertiesTest.java
