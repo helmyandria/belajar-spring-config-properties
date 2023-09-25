@@ -14,3 +14,6 @@
 
 ### Application Properties
 * ApplicationPropertiesTest.java
+
+### Environment
+* EnvironmentTest.java
